@@ -2,7 +2,6 @@
 
 **UnbrickTool** is a lightweight, zero-bloat local web interface for recovering bricked Android devices. Built with Python and Flask, it wraps standard `ADB`, `Fastboot`, and low-level emergency port scanners (`Qualcomm EDL 9008` & `MediaTek BROM`) into a clean, dark-mode engineering UI — available as a standalone offline Windows `.exe` or cross-platform Python script.
 
-![UnbrickTool Preview]
 <img width="484" height="730" alt="image" src="https://github.com/user-attachments/assets/b31b9eef-9d4b-44a9-9651-32ebf8548c25" />
 
 
